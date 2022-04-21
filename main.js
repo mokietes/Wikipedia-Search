@@ -48,5 +48,6 @@ function displayResults(results) {
   });
 }
 
+//main
 const form = document.querySelector(".js-search-form");
 form.addEventListener("submit", handleSubmit);
